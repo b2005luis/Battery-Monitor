@@ -1,0 +1,23 @@
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\bin\Debug\BateryMonitor.exe.config
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\bin\Debug\BateryMonitor.exe
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\bin\Debug\BateryMonitor.pdb
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.csprojAssemblyReference.cache
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.Properties.Resources.resources
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.csproj.GenerateResource.cache
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.exe
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.pdb
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\bin\Debug\System.Management.dll
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\bin\Debug\pt-BR\System.Management.resources.dll
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.csproj.CopyComplete
+C:\Users\Luis Alberto\Documents\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.FormBatteryMonitor.resources
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\bin\Debug\BateryMonitor.exe.config
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\bin\Debug\BateryMonitor.exe
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\bin\Debug\BateryMonitor.pdb
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.csprojAssemblyReference.cache
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.FormBatteryMonitor.resources
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.Properties.Resources.resources
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.csproj.GenerateResource.cache
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.csproj.CoreCompileInputs.cache
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.exe
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BateryMonitor\BateryMonitor\obj\Debug\BateryMonitor.pdb

@@ -1,0 +1,10 @@
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\bin\Release\Battery Monitor.exe.config
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\bin\Release\Battery Monitor.exe
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\bin\Release\Battery Monitor.pdb
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\obj\Release\BatteryMonitor.csprojAssemblyReference.cache
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\obj\Release\BatteryMonitor.FormBatteryMonitor.resources
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\obj\Release\BateryMonitor.Properties.Resources.resources
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\obj\Release\BatteryMonitor.csproj.GenerateResource.cache
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\obj\Release\BatteryMonitor.csproj.CoreCompileInputs.cache
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\obj\Release\Battery Monitor.exe
+F:\PROGRAMAÇÂO\Workspace\.NET-Projects\BatteryMonitor\BatteryMonitor\obj\Release\Battery Monitor.pdb
